@@ -47,3 +47,8 @@ Here are some ideas to get you started:
 
 
 <!-- ![footer](https://github.com/das-anubhav/das-anubhav/blob/53b2656e81e9a909e0e4baa18ad3e9e1e5c07292/b.png) -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+<!-- _generated with [Platane/snk](https://github.com/das-anubhav/snk)_ -->
+
