@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=das-anubhav" alt="page views" />
 </a> -->
 
-<p><img align="right" alt="Coding" width="400" src="d.gif">
+<p><img align="right" alt="Coding" width="300" src="d.gif">
 
 ## Connect with me:
 <p align="left">
