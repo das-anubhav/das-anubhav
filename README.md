@@ -30,7 +30,16 @@ Here are some ideas to get you started:
 🪐 [**Calcfy**](https://apps.apple.com/ag/app/calcfy/id1586869088)  
  
   
-<br /><br /><br /><br /><br />
+<br />
+
+    
+## Get in touch 📬
+<p align="left">
+    
+<a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="40" width="40" /></a>
+</p>    
+    
+<br />
 
 ## Languages and Tools 🖥 
 
@@ -63,10 +72,6 @@ Here are some ideas to get you started:
 <!-- _generated with [Platane/snk](https://github.com/das-anubhav/snk)_ -->
     
     
-## Get in touch 📬
-<p align="left">
-    
-<a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="40" width="40" /></a>
-</p>
+
     
 
