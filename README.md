@@ -23,8 +23,8 @@
 ## Get in touch 📬
 <p align="left">
     
-<a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="40" width="40" /></a>&emsp;
-<a href="https://twitter.com/Anubhav7Das" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="das-anubhav" height="40" width="50" /></a>    
+<a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="35" width="35" /></a>&emsp;
+<a href="https://twitter.com/Anubhav7Das" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="das-anubhav" height="35" width="45" /></a>    
 </p>    
     
 <br />
