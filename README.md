@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 
 
 ## My released apps  
-🎨 [EduPlay](https://apps.apple.com/ag/app/eduplay-the-learning-app/id1560228798)  
-📆 [ScanBin](https://apps.apple.com/ag/app/scanbin-the-waste-scanner/id1581396924)  
-👾 [Calcfy](https://apps.apple.com/ag/app/calcfy/id1586869088)  
-📺 [Twinx](https://apps.apple.com/ag/app/twinx/id1587405557)  
+📚 [**EduPlay**](https://apps.apple.com/ag/app/eduplay-the-learning-app/id1560228798)  
+⭐️ [**Twinx**](https://apps.apple.com/ag/app/twinx/id1587405557)     
+☘️ [**ScanBin**](https://apps.apple.com/ag/app/scanbin-the-waste-scanner/id1581396924)  
+🪐 [**Calcfy**](https://apps.apple.com/ag/app/calcfy/id1586869088)  
+ 
   
 <br />
 
-## Languages and Tools : 
+## Languages and Tools 🖥 
 
 
 
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 <!-- _generated with [Platane/snk](https://github.com/das-anubhav/snk)_ -->
     
     
-## Connect with me:
+## Get in touch 📬
 <p align="left">
     
 <a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="40" width="40" /></a>
