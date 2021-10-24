@@ -12,9 +12,9 @@
 
 ## My released apps  
 📚 [**EduPlay**](https://apps.apple.com/ag/app/eduplay-the-learning-app/id1560228798)  
-⭐️ [**Twinx**](https://apps.apple.com/ag/app/twinx/id1587405557)     
-☘️ [**ScanBin**](https://apps.apple.com/ag/app/scanbin-the-waste-scanner/id1581396924)  
-🪐 [**Calcfy**](https://apps.apple.com/ag/app/calcfy/id1586869088)  
+⭐️ [**Twinx**](https://apps.apple.com/ag/app/twinx/id1587405557#?platform=iphone)     
+☘️ [**ScanBin**](https://apps.apple.com/ag/app/scanbin-the-waste-scanner/id1581396924#?platform=iphone)  
+🪐 [**Calcfy**](https://apps.apple.com/ag/app/calcfy/id1586869088#?platform=iphone)  
  
   
 <br />
