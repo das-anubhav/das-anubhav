@@ -67,13 +67,12 @@
 <img align="center" alt="Coding" width="600" src="https://activity-graph.herokuapp.com/graph?username=das-anubhav&theme=react-dark"></a> -->
 
 
-<!-- ![footer](https://github.com/das-anubhav/das-anubhav/blob/53b2656e81e9a909e0e4baa18ad3e9e1e5c07292/b.png) -->
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-<!-- _generated with [Platane/snk](https://github.com/das-anubhav/snk)_ -->
-    
-    
 
+    
+![footer](https://github.com/das-anubhav/das-anubhav/blob/e03db749d2ab881d48c1a46c892072766f8ec0b4/b.png)
     
 
