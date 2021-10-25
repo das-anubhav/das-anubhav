@@ -54,10 +54,10 @@
 
 
 <a href="https://github.com/das-anubhav">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=das-anubhav&show_icons=true&locale=en&theme=algolia" alt="das-anubhav" />
+<img  src="https://github-readme-stats.vercel.app/api?username=das-anubhav&show_icons=true&locale=en&theme=algolia" alt="das-anubhav" />
 </a>
 <a href="https://github.com/das-anubhav">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=das-anubhav&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="interstellar2anubhav" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=das-anubhav&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="interstellar2anubhav" />
 </a>
 
 
