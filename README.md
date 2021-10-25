@@ -71,8 +71,8 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/das-anubhav/das-anubhav/blob/output/github-contribution-grid-snake.svg)
 
     
 ![footer](https://github.com/das-anubhav/das-anubhav/blob/e03db749d2ab881d48c1a46c892072766f8ec0b4/b.png)
