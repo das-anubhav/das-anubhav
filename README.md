@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Namaste 🙏 , I'm Anubhav Das <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"></h1>
-<h3 align="center">Forward-thinking with a background in Native IOS App Development and Unity Game Development. Quickly learns and masters new technologies while working in both teams and self-directed settings. Eager to contribute to team success through hard work, attention to detail, and exceptional organisational skills.</h3>
+<h3 align="center">Forward-thinking with a background in Native iOS App Development and Unity Game Development. Quickly learns and masters new technologies while working in both teams and self-directed settings. Eager to contribute to team success through hard work, attention to detail, and exceptional organisational skills.</h3>
 <!-- <a href="https://github.com/das-anubhav">
     <img src="https://komarev.com/ghpvc/?username=das-anubhav" alt="page views" />
 </a> -->
