@@ -26,7 +26,9 @@
 <p align="left">
     
 <a href="https://linkedin.com/in/das-anubhav" target="blank"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="das-anubhav" height="35" width="35" /></a>&emsp;
-<a href="https://twitter.com/Anubhav7Das" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="das-anubhav" height="35" width="45" /></a>    
+<a href="https://www.instagram.com/_anubhavdas_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="das-anubhav" height="35" width="35" /></a>&emsp;
+<a href="https://twitter.com/Anubhav7Das" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="das-anubhav" height="35" width="45" /></a>&emsp;
+<a href="https://www.youtube.com/c/AnubhavDas97/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="das-anubhav" height="35" width="47" /></a>&emsp;
 </p>    
     
 <br />
